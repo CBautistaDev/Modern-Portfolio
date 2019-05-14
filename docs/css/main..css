@@ -100,7 +100,7 @@
 .menu-branding .portrait {
   width: 220px;
   height: 220px;
-  background: url("../dist/img/carlosbautista.jpg");
+  background: url("/docs/img/carlosbautista.jpg");
   border-radius: 50%;
   border: solid 3px #eece1a;
 }
